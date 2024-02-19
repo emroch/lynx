@@ -11,7 +11,7 @@
 
 /* Links */
 .link {
-  @apply bg-primary-700 text-white hover:brightness-90;
+  @apply text-white bg-primary-700 hover:brightness-90;
 }
 
 .link-amazon {
@@ -103,11 +103,17 @@
   background-color: #ff8800;
   background: linear-gradient(120deg, #ff8800, #ff3300);
 }
+.link-spotify {
+  background-color: #1db954;
+}
 .link-steam {
   background-color: #000;
 }
 .link-telegram {
   background-color: #25a3e1;
+}
+.link-threads {
+  background-color: #000;
 }
 .link-tiktok {
   background-color: #fe2d55;
@@ -124,6 +130,9 @@
 .link-whatsapp {
   background-color: #45d82c;
   background: linear-gradient(120deg, #12990b, #45d82c);
+}
+.link-x {
+  background-color: #000;
 }
 .link-youtube {
   background-color: #ff0000;

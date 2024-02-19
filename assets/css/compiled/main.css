@@ -1,6 +1,6 @@
-/*! Lynx v1.3.0 | MIT License | https://github.com/jpanther/lynx */
+/*! Lynx v1.3.1 | MIT License | https://github.com/jpanther/lynx */
 
-/*! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v3.3.5 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1193,12 +1193,20 @@ video {
   background: linear-gradient(120deg, #ff8800, #ff3300);
 }
 
+.link-spotify {
+  background-color: #1db954;
+}
+
 .link-steam {
   background-color: #000;
 }
 
 .link-telegram {
   background-color: #25a3e1;
+}
+
+.link-threads {
+  background-color: #000;
 }
 
 .link-tiktok {
@@ -1220,6 +1228,10 @@ video {
 .link-whatsapp {
   background-color: #45d82c;
   background: linear-gradient(120deg, #12990b, #45d82c);
+}
+
+.link-x {
+  background-color: #000;
 }
 
 .link-youtube {
